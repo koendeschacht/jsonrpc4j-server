@@ -9,7 +9,7 @@
     <version>master-SNAPSHOT</version>
 
     <properties>
-        <jackson-version>2.9.7</jackson-version>
+        <jackson-version>2.9.8</jackson-version>
         <slf4j-version>1.7.25</slf4j-version>
         <spring-version>4.3.5.RELEASE</spring-version>
         <spring-boot-version>1.4.3.RELEASE</spring-boot-version>
